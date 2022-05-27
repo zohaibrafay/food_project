@@ -1,0 +1,24 @@
+.fudo-banner {
+    position: relative;
+    width: 100%;
+    right: 10rem;
+}
+
+.fudo-banner > img:first-child {
+    height: 10rem;
+    width: 18rem;
+    position: relative;
+    top: 15rem;
+}
+.fudo-banner > img:nth-child(2) {
+    width: 100%;
+    position: relative;
+}
+.fudo-hero-header-content{
+    position: relative;
+    top: 3rem;
+}
+.fudo-hero-header-content > h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
