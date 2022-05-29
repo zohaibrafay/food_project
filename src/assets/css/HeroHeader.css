@@ -22,3 +22,13 @@
     font-size: 3rem;
     font-weight: bold;
 }
+.fudo-header-bottom > div {
+    border-radius: 20px;
+}
+.fudo-header-bottom > :nth-child(2) {
+    background-color: #FDC913;
+}
+.fudo-header-bottom > div > img {
+    width: 4rem;
+    padding-bottom: 2rem;
+}
